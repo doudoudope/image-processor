@@ -1,0 +1,30 @@
+User Manual:
+
+Features:
+Load Image
+Save Image
+Compare Image
+Undo previous steps
+Redo previous steps
+Reset images to original
+Process batch scripts
+Get user manual
+Get about me
+Exit program
+
+Image filters:
+Blur 
+Sharpen
+Greyscale
+Sepia
+Dither
+Mosaic
+
+Shortcuts:
+Load:Command + O
+Save: Command + S
+Batch: Command + B
+Undo: Command + Z
+Redo: Command + Shift + Z
+Reset: Command + R
+Compare: Tab(Holding for previewing previous step; Release for viewing current step)
